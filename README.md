@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/f9ea2f8e-bc68-434e-b45a-3932ace03fcf/thumbnail" >
+</p>
 
 <!--
 **wjseele/wjseele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
